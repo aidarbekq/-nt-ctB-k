@@ -1,4 +1,4 @@
-# ContactBook
+# СоntаctBооk
 This is a sample project for a console-based contact book application. The application uses C# and .NET Core, and utilizes a SQLite database for storage. The project is split into two main parts: the ConContactBook console application, and the libcontactmanagement library.
 
 To run the application, you will need to have the .NET Core SDK and runtime installed on your system. You can download the SDK from the official .NET website: https://dotnet.microsoft.com/download
